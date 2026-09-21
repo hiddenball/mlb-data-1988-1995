@@ -1,0 +1,58 @@
+[
+  {
+    "year": 1994,
+    "field": "boxscore",
+    "total_checked": 1604,
+    "had_data": 1604,
+    "pct_available": 100.0
+  },
+  {
+    "year": 1994,
+    "field": "draft",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 1994,
+    "field": "linescore",
+    "total_checked": 1604,
+    "had_data": 1604,
+    "pct_available": 100.0
+  },
+  {
+    "year": 1994,
+    "field": "playbyplay",
+    "total_checked": 1604,
+    "had_data": 1604,
+    "pct_available": 100.0
+  },
+  {
+    "year": 1994,
+    "field": "roster",
+    "total_checked": 30,
+    "had_data": 28,
+    "pct_available": 93.3
+  },
+  {
+    "year": 1994,
+    "field": "standings_splits",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 1994,
+    "field": "transactions",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 1994,
+    "field": "winprobability",
+    "total_checked": 1604,
+    "had_data": 1604,
+    "pct_available": 100.0
+  }
+]
