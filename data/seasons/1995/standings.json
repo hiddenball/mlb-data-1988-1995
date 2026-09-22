@@ -1,0 +1,254 @@
+[
+  {
+    "clinched": true,
+    "divisionAtTheTime": null,
+    "divisionRank": "1",
+    "losses": 58,
+    "teamId": 111,
+    "winPct": ".597",
+    "wins": 86
+  },
+  {
+    "clinched": true,
+    "divisionAtTheTime": null,
+    "divisionRank": "2",
+    "losses": 65,
+    "teamId": 147,
+    "winPct": ".549",
+    "wins": 79
+  },
+  {
+    "clinched": false,
+    "divisionAtTheTime": null,
+    "divisionRank": "3",
+    "losses": 73,
+    "teamId": 110,
+    "winPct": ".493",
+    "wins": 71
+  },
+  {
+    "clinched": false,
+    "divisionAtTheTime": null,
+    "divisionRank": "4",
+    "losses": 84,
+    "teamId": 116,
+    "winPct": ".417",
+    "wins": 60
+  },
+  {
+    "clinched": false,
+    "divisionAtTheTime": null,
+    "divisionRank": "5",
+    "losses": 88,
+    "teamId": 141,
+    "winPct": ".389",
+    "wins": 56
+  },
+  {
+    "clinched": true,
+    "divisionAtTheTime": null,
+    "divisionRank": "1",
+    "losses": 44,
+    "teamId": 114,
+    "winPct": ".694",
+    "wins": 100
+  },
+  {
+    "clinched": false,
+    "divisionAtTheTime": null,
+    "divisionRank": "2",
+    "losses": 74,
+    "teamId": 118,
+    "winPct": ".486",
+    "wins": 70
+  },
+  {
+    "clinched": false,
+    "divisionAtTheTime": null,
+    "divisionRank": "3",
+    "losses": 76,
+    "teamId": 145,
+    "winPct": ".472",
+    "wins": 68
+  },
+  {
+    "clinched": false,
+    "divisionAtTheTime": null,
+    "divisionRank": "4",
+    "losses": 79,
+    "teamId": 158,
+    "winPct": ".451",
+    "wins": 65
+  },
+  {
+    "clinched": false,
+    "divisionAtTheTime": null,
+    "divisionRank": "5",
+    "losses": 88,
+    "teamId": 142,
+    "winPct": ".389",
+    "wins": 56
+  },
+  {
+    "clinched": true,
+    "divisionAtTheTime": null,
+    "divisionRank": "1",
+    "losses": 66,
+    "teamId": 136,
+    "winPct": ".545",
+    "wins": 79
+  },
+  {
+    "clinched": false,
+    "divisionAtTheTime": null,
+    "divisionRank": "2",
+    "losses": 67,
+    "teamId": 108,
+    "winPct": ".538",
+    "wins": 78
+  },
+  {
+    "clinched": false,
+    "divisionAtTheTime": null,
+    "divisionRank": "3",
+    "losses": 70,
+    "teamId": 140,
+    "winPct": ".514",
+    "wins": 74
+  },
+  {
+    "clinched": false,
+    "divisionAtTheTime": null,
+    "divisionRank": "4",
+    "losses": 77,
+    "teamId": 133,
+    "winPct": ".465",
+    "wins": 67
+  },
+  {
+    "clinched": true,
+    "divisionAtTheTime": null,
+    "divisionRank": "1",
+    "losses": 54,
+    "teamId": 144,
+    "winPct": ".625",
+    "wins": 90
+  },
+  {
+    "clinched": false,
+    "divisionAtTheTime": null,
+    "divisionRank": "2",
+    "losses": 75,
+    "teamId": 121,
+    "winPct": ".479",
+    "wins": 69
+  },
+  {
+    "clinched": false,
+    "divisionAtTheTime": null,
+    "divisionRank": "3",
+    "losses": 75,
+    "teamId": 143,
+    "winPct": ".479",
+    "wins": 69
+  },
+  {
+    "clinched": false,
+    "divisionAtTheTime": null,
+    "divisionRank": "4",
+    "losses": 76,
+    "teamId": 146,
+    "winPct": ".469",
+    "wins": 67
+  },
+  {
+    "clinched": false,
+    "divisionAtTheTime": null,
+    "divisionRank": "5",
+    "losses": 78,
+    "teamId": 120,
+    "winPct": ".458",
+    "wins": 66
+  },
+  {
+    "clinched": true,
+    "divisionAtTheTime": null,
+    "divisionRank": "1",
+    "losses": 59,
+    "teamId": 113,
+    "winPct": ".590",
+    "wins": 85
+  },
+  {
+    "clinched": false,
+    "divisionAtTheTime": null,
+    "divisionRank": "2",
+    "losses": 68,
+    "teamId": 117,
+    "winPct": ".528",
+    "wins": 76
+  },
+  {
+    "clinched": false,
+    "divisionAtTheTime": null,
+    "divisionRank": "3",
+    "losses": 71,
+    "teamId": 112,
+    "winPct": ".507",
+    "wins": 73
+  },
+  {
+    "clinched": false,
+    "divisionAtTheTime": null,
+    "divisionRank": "4",
+    "losses": 81,
+    "teamId": 138,
+    "winPct": ".434",
+    "wins": 62
+  },
+  {
+    "clinched": false,
+    "divisionAtTheTime": null,
+    "divisionRank": "5",
+    "losses": 86,
+    "teamId": 134,
+    "winPct": ".403",
+    "wins": 58
+  },
+  {
+    "clinched": true,
+    "divisionAtTheTime": null,
+    "divisionRank": "1",
+    "losses": 66,
+    "teamId": 119,
+    "winPct": ".542",
+    "wins": 78
+  },
+  {
+    "clinched": true,
+    "divisionAtTheTime": null,
+    "divisionRank": "2",
+    "losses": 67,
+    "teamId": 115,
+    "winPct": ".535",
+    "wins": 77
+  },
+  {
+    "clinched": false,
+    "divisionAtTheTime": null,
+    "divisionRank": "3",
+    "losses": 74,
+    "teamId": 135,
+    "winPct": ".486",
+    "wins": 70
+  },
+  {
+    "clinched": false,
+    "divisionAtTheTime": null,
+    "divisionRank": "4",
+    "losses": 77,
+    "teamId": 137,
+    "winPct": ".465",
+    "wins": 67
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "award": "AL MVP",
+    "playerId": 124721,
+    "teamId": 158,
+    "year": 1989
+  },
+  {
+    "award": "NL MVP",
+    "playerId": 119195,
+    "teamId": 137,
+    "year": 1989
+  },
+  {
+    "award": "AL Cy Young",
+    "playerId": 121604,
+    "teamId": 118,
+    "year": 1989
+  },
+  {
+    "award": "NL Cy Young",
+    "playerId": 113126,
+    "teamId": 135,
+    "year": 1989
+  },
+  {
+    "award": "AL Rookie of the Year",
+    "playerId": 120002,
+    "teamId": 110,
+    "year": 1989
+  },
+  {
+    "award": "NL Rookie of the Year",
+    "playerId": 123901,
+    "teamId": 112,
+    "year": 1989
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 111221,
+    "teamId": 118,
+    "year": 1989
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 121604,
+    "teamId": 118,
+    "year": 1989
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 124164,
+    "teamId": 108,
+    "year": 1989
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 118443,
+    "teamId": 147,
+    "year": 1989
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 114508,
+    "teamId": 142,
+    "year": 1989
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 120481,
+    "teamId": 116,
+    "year": 1989
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 121108,
+    "teamId": 136,
+    "year": 1989
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 120790,
+    "teamId": 142,
+    "year": 1989
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 114079,
+    "teamId": 141,
+    "year": 1989
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 114526,
+    "teamId": 120,
+    "year": 1989
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 123653,
+    "teamId": 134,
+    "year": 1989
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 121693,
+    "teamId": 135,
+    "year": 1989
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 113102,
+    "teamId": 113,
+    "year": 1989
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 122439,
+    "teamId": 138,
+    "year": 1989
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 113054,
+    "teamId": 121,
+    "year": 1989
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 121665,
+    "teamId": 112,
+    "year": 1989
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 120381,
+    "teamId": 138,
+    "year": 1989
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 115270,
+    "teamId": 135,
+    "year": 1989
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 121222,
+    "teamId": 110,
+    "year": 1989
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 118730,
+    "teamId": 141,
+    "year": 1989
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 110456,
+    "teamId": 145,
+    "year": 1989
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 212297,
+    "teamId": 140,
+    "year": 1989
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 120790,
+    "teamId": 142,
+    "year": 1989
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 123211,
+    "teamId": 110,
+    "year": 1989
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 124721,
+    "teamId": 158,
+    "year": 1989
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 122218,
+    "teamId": 140,
+    "year": 1989
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 111153,
+    "teamId": 111,
+    "year": 1989
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 117501,
+    "teamId": 113,
+    "year": 1989
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 110987,
+    "teamId": 117,
+    "year": 1989
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 121308,
+    "teamId": 137,
+    "year": 1989
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 113102,
+    "teamId": 113,
+    "year": 1989
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 116593,
+    "teamId": 121,
+    "year": 1989
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 119195,
+    "teamId": 137,
+    "year": 1989
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 121665,
+    "teamId": 112,
+    "year": 1989
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 115270,
+    "teamId": 135,
+    "year": 1989
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 112345,
+    "teamId": 137,
+    "year": 1989
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 427014,
+    "teamId": 14,
+    "year": 1989
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 124650,
+    "teamId": 111,
+    "year": 1989
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 110849,
+    "teamId": 113,
+    "year": 1989
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 121851,
+    "teamId": 138,
+    "year": 1989
+  }
+]

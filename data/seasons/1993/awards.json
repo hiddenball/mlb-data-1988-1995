@@ -1,0 +1,260 @@
+[
+  {
+    "award": "AL MVP",
+    "playerId": 123245,
+    "teamId": 145,
+    "year": 1993
+  },
+  {
+    "award": "NL MVP",
+    "playerId": 111188,
+    "teamId": 137,
+    "year": 1993
+  },
+  {
+    "award": "AL Cy Young",
+    "playerId": 118656,
+    "teamId": 145,
+    "year": 1993
+  },
+  {
+    "award": "NL Cy Young",
+    "playerId": 118120,
+    "teamId": 144,
+    "year": 1993
+  },
+  {
+    "award": "AL Rookie of the Year",
+    "playerId": 121640,
+    "teamId": 108,
+    "year": 1993
+  },
+  {
+    "award": "NL Rookie of the Year",
+    "playerId": 120536,
+    "teamId": 119,
+    "year": 1993
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 124164,
+    "teamId": 141,
+    "year": 1993
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 118443,
+    "teamId": 147,
+    "year": 1993
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 121358,
+    "teamId": 140,
+    "year": 1993
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 115135,
+    "teamId": 136,
+    "year": 1993
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 117863,
+    "teamId": 114,
+    "year": 1993
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 117480,
+    "teamId": 108,
+    "year": 1993
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 123744,
+    "teamId": 136,
+    "year": 1993
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 110183,
+    "teamId": 141,
+    "year": 1993
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 123697,
+    "teamId": 145,
+    "year": 1993
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 111188,
+    "teamId": 137,
+    "year": 1993
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 118120,
+    "teamId": 144,
+    "year": 1993
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 110826,
+    "teamId": 134,
+    "year": 1993
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 118267,
+    "teamId": 137,
+    "year": 1993
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 123833,
+    "teamId": 120,
+    "year": 1993
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 115007,
+    "teamId": 112,
+    "year": 1993
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 115174,
+    "teamId": 120,
+    "year": 1993
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 124326,
+    "teamId": 137,
+    "year": 1993
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 123300,
+    "teamId": 137,
+    "year": 1993
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 110839,
+    "teamId": 114,
+    "year": 1993
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 121222,
+    "teamId": 110,
+    "year": 1993
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 110427,
+    "teamId": 114,
+    "year": 1993
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 123245,
+    "teamId": 145,
+    "year": 1993
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 114932,
+    "teamId": 140,
+    "year": 1993
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 115135,
+    "teamId": 136,
+    "year": 1993
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 122673,
+    "teamId": 147,
+    "year": 1993
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 119236,
+    "teamId": 141,
+    "year": 1993
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 111153,
+    "teamId": 111,
+    "year": 1993
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 111188,
+    "teamId": 137,
+    "year": 1993
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 116798,
+    "teamId": 144,
+    "year": 1993
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 118730,
+    "teamId": 144,
+    "year": 1993
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 110826,
+    "teamId": 134,
+    "year": 1993
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 113686,
+    "teamId": 143,
+    "year": 1993
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 124326,
+    "teamId": 137,
+    "year": 1993
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 120536,
+    "teamId": 119,
+    "year": 1993
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 115861,
+    "teamId": 119,
+    "year": 1993
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 123300,
+    "teamId": 137,
+    "year": 1993
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 116439,
+    "teamId": 147,
+    "year": 1993
+  }
+]
